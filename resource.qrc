@@ -1,0 +1,35 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>res/png/background.jpg</file>
+        <file>res/png/camp_place.png</file>
+        <file>res/png/chessboard.png</file>
+        <file>res/png/common_place.png</file>
+        <file>res/png/dilei_blue.png</file>
+        <file>res/png/dilei_red.png</file>
+        <file>res/png/empty_chessboard.png</file>
+        <file>res/png/gongbin_blue.png</file>
+        <file>res/png/gongbin_red.png</file>
+        <file>res/png/junqi_blue.png</file>
+        <file>res/png/junqi_red.png</file>
+        <file>res/png/junzhang_blue.png</file>
+        <file>res/png/junzhang_red.png</file>
+        <file>res/png/lianzhang_blue.png</file>
+        <file>res/png/lianzhang_red.png</file>
+        <file>res/png/lvzhang_blue.png</file>
+        <file>res/png/lvzhang_red.png</file>
+        <file>res/png/paizhang_blue.png</file>
+        <file>res/png/paizhang_red.png</file>
+        <file>res/png/shizhang_blue.png</file>
+        <file>res/png/shizhang_red.png</file>
+        <file>res/png/siling_blue.png</file>
+        <file>res/png/siling_red.png</file>
+        <file>res/png/tuanzhang_blue.png</file>
+        <file>res/png/tuanzhang_red.png</file>
+        <file>res/png/unknown_chessboard.png</file>
+        <file>res/png/unknown_place.png</file>
+        <file>res/png/yingzhang_blue.png</file>
+        <file>res/png/yingzhang_red.png</file>
+        <file>res/png/zhadan_blue.png</file>
+        <file>res/png/zhadan_red.png</file>
+    </qresource>
+</RCC>
